@@ -1,0 +1,3 @@
+Pneumonia and Influenza Mortality Surveillance data of all the states can be downloaded from the link below:
+
+https://gis.cdc.gov/grasp/fluview/mortality.html
